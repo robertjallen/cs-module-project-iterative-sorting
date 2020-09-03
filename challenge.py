@@ -13,5 +13,3 @@ def sum(arr):
     print(sum)
 
 sum(arr1)   
-
-# print(sum)
