@@ -34,8 +34,9 @@ def bubble_sort(arr):
 
 
 b = bubble_sort(arr1)
-
+s = selection_sort(arr1)
 print(b)
+print(s)
 
 '''
 STRETCH: implement the Counting Sort function below
